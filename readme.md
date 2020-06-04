@@ -25,7 +25,7 @@ def on_frame():
 3. Install requirements by executing command from terminal:
 
 ```console
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 4. Install package itself by executing command from terminal:
